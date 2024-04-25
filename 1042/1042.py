@@ -1,0 +1,10 @@
+A, B, C = map(int, input().split())
+L=[A, B, C]
+ls = sorted(L)
+print(ls[0])
+print(ls[1])
+print(ls[2])
+print("")
+print(L[0])
+print(L[1])
+print(L[2])
